@@ -1,0 +1,11 @@
+Flask==2.2.5
+tensorflow
+opencv-python
+numpy
+pymongo
+flask
+flask-cors
+bcrypt
+python-dotenv
+google-auth # Required for Google sign-in functionality
+firebase-admin

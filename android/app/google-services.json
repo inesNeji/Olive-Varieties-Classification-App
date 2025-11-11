@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689248491740",
+    "project_id": "olive-leaf-analyzer-3c5b0",
+    "storage_bucket": "olive-leaf-analyzer-3c5b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689248491740:android:22da0420e4360a90c73c19",
+        "android_client_info": {
+          "package_name": "com.example.olive_leaf_analyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689248491740-lfo9p95a3ajfhae1l7pfahkara15356c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.olive_leaf_analyzer",
+            "certificate_hash": "5686541af4d8907a950e24a73f76fd60f2875905"
+          }
+        },
+        {
+          "client_id": "689248491740-o04sjop69nddqnp5p9u8gtv9qqtuod1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsWhpknuimM9WHaM1UpFbLsveg2AX9wOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689248491740-o04sjop69nddqnp5p9u8gtv9qqtuod1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
